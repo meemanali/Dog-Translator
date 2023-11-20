@@ -1,5 +1,5 @@
 # Dog-Translator
-Welcome to the Dog Translator. Your go-to Android app for decoding the language of man's best friend! 🐶. Some features in this amazing app are:
+Welcome to the Dog Translator. Your ultimate Android app for decoding the language of man's best friend! 🐶. Some features in this amazing app are:
 
 * 🗣️ Translate recorded dog messages (sound recordings) into human language and vice versa.
 * 🔊 Play authentic dog sounds, ranging from joyous barks to heartfelt whimpers.
