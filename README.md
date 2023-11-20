@@ -1,11 +1,13 @@
 # Dog-Translator
-Welcome to the Dog Translator.  An Android app which lets you:
+Welcome to the Dog Translator. Your go-to Android app for decoding the language of man's best friend! 🐶. Some features in this amazing app are:
 
-* Play authentic dog sounds (happy, sad, angry, and more).
-* A realistic dog whistle.
-* The ability to translate dog recordings into human language and vice versa.
+* 🗣️ Translate recorded dog messages (sound recordings) into human language and vice versa.
+* 🔊 Play authentic dog sounds, ranging from joyous barks to heartfelt whimpers.
+* 🎶 Experience a realistic dog whistle that captures your furry friend's attention.
+* 🎉 Enjoy seamless animations on dialog boxes, a sleek bottom navigation view, and enhanced user experience with Lottie animations.
+* 🚀 Smart resource handling ensures a smooth app performance while conserving battery life.
 
-Of course it is a prank simulator app. It generates random messages in response of your Dog sound recording. And similarly plays random Dog sound in response of human sound recording.
+Of course it is a prank simulator app 😁. It generates random messages in response of your Dog sound recording. And similarly plays random Dog sounds in response of human sound recording.
 
 # Preview:
 
@@ -22,3 +24,7 @@ Of course it is a prank simulator app. It generates random messages in response 
 
 
 # Video Demo:
+
+
+[Dog Translator Recording.webm](https://github.com/meemanali/Dog-Translator/assets/120294764/d5a2c284-a44d-4326-b709-740d2eac7859)
+
