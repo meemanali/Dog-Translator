@@ -28,3 +28,11 @@ Of course it is a prank simulator app 😁. It generates random messages in resp
 
 [Dog Translator Recording.webm](https://github.com/meemanali/Dog-Translator/assets/120294764/d5a2c284-a44d-4326-b709-740d2eac7859)
 
+
+# Source Code:
+For source code, contact the owner of the repo:
+* Email: meemanali72@gmail.com
+* Number: +923124328292
+
+Thanks for visiting...
+  
